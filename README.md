@@ -1,0 +1,4 @@
+datasciencecoursera
+===================
+
+Initial Coursework repository
